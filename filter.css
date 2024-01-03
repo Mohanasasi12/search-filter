@@ -1,0 +1,18 @@
+/* Basic styling for the search input */
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Basic styling for the list items */
+#itemList {
+    list-style: none;
+    padding: 0;
+}
+
+#itemList li {
+    padding: 5px;
+    border: 1px solid #750d0d;
+    margin-bottom: 5px;
+}
